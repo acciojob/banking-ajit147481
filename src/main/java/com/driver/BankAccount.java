@@ -6,7 +6,7 @@ public class BankAccount {
     private double balance;
     private double minBalance;
 
-    public BankAccount(String name, double balance,double minBalance) {
+    public BankAccount(String name, double balance) {
         this.name= this.name;
         this.balance= this.balance;
         this.minBalance=0;
