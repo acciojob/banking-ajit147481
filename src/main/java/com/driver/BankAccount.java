@@ -9,7 +9,7 @@ public class BankAccount {
     public BankAccount(String name, double balance) {
         this.name= this.name;
         this.balance= this.balance;
-        this.minBalance=minBalance;
+        this.minBalance=0;
 
     }
 
